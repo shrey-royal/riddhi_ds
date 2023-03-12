@@ -1,0 +1,28 @@
+What is LinkedList?
+A LinkedList is a linear DS, in which elements are not stored at contagious memory locations. The elements in a linked list are linked using pointers.
+
+In simple words, a linkedlist consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+
+Why LinkedList?
+A linked list is a dynamic data structure. The number of nodes in a list is not fixed and can grow and shrink on demand. Any application which has to deal with an unknown number of objects will need to use a linked list.
+
+Advantages of LinkedList over Array
+1. Dynamic size
+2. Ease of insertion/deletion
+
+Disadvantages of LinkedList over Array
+1. Random access is not allowed. We have to access elements sequentially starting from the first node. So we cannot do a binary search with linked lists efficiently with its default implementation. Read about it here.
+2. Extra memory space for a pointer is required with each element of the list.
+3. Not cache friendly. Since array elements are contiguous locations, there is locality of reference which is not there in case of linked lists.
+4. It takes a lot of time in traversing the list. If we have to access an element from the end, then we have to start from the beginning and follow the link to reach the end.
+
+Types of LinkedList
+1. Singly LinkedList
+2. Doubly LinkedList
+3. Circular LinkedList
+
+Basic Operations
+1. Insertion
+2. Deletion
+3. Traversal
+4. Search

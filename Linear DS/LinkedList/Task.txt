@@ -1,0 +1,17 @@
+1. InsertAtBeginning:
+
+> Create a singly linked list that stores integer values. Write a function to insert a new integer value at the beginning of the linked list.
+> Implement a singly linked list that stores string values. Write a function to insert a new string value at the beginning of the linked list.
+> Create a singly linked list that stores floating point values. Write a function to insert a new floating point value at the beginning of the linked list.
+
+
+2. Travel in forward and reverse direction:
+
+> Create a singly linked list that stores employee records (name, age, salary). Write a function to traverse the linked list in forward direction and print the records.
+> Implement a singly linked list that stores book records (title, author, publication year). Write a function to traverse the linked list in reverse direction and print the records. (Note that this requires extra space complexity for storing the previous node's pointer.)
+> Create a singly linked list that stores student records (roll number, name, marks). Write a function to traverse the linked list in forward direction and print the records. Then, using recursion, write a function to traverse the linked list in reverse direction and print the records.
+
+
+3. Combined problem statement:
+
+> Create a singly linked list that stores car records (make, model, year). Write a function to insert a new car record at the beginning of the linked list. Write another function to traverse the linked list in forward direction and print the records. Then, using recursion, write a function to traverse the linked list in reverse direction and print the records.
